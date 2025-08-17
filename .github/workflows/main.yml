@@ -1,6 +1,7 @@
 on: push
+
 jobs: 
-  job1:
+ job1:
     steps:
     - run: pwd
     - run: ls
