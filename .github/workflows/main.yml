@@ -1,0 +1,5 @@
+java
+mysql:5.7
+tomcat:8.0
+redies
+nacos/nacos-sercer:2.4.3
