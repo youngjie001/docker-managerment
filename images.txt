@@ -1,0 +1,5 @@
+mysql:8.4.3
+java:8
+redies:7.4.1
+nacos/nacos-server:v2.4.3
+nginx:1.27.2
