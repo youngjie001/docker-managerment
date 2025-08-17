@@ -1,5 +1,5 @@
 java
-mysql:5.7
-tomcat:8.0
+mysql
+tomcat
 redies
-nacos/nacos-sercer:2.4.3
+nacos/nacos-sercer
